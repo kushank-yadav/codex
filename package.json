@@ -1,0 +1,9 @@
+{
+  "name": "codex",
+  "version": "1.0.0",
+  "description": "Codex — Multi-language Static Code Analyzer (Java, JavaScript, Python)",
+  "main": "backend/server.js",
+  "scripts": { "start": "node backend/server.js" },
+  "license": "MIT",
+  "dependencies": { "cors": "^2.8.6", "express": "^5.3.0", "multer": "^2.5.0" }
+}
